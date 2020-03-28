@@ -1,7 +1,7 @@
 # Print Preview Region into PDF V2.0
 ![Screenshot](https://github.com/www-smithchain-com/Print-Preview-Region-into-PDF-V-2.0/blob/master/print_preview.gif)
 
-This plugin is updated version 2.0 of old plugin v1.0 which convert your apex region data or report data into pdf format.Now the changes is it will also support to open print preview and apex chart instead of download. For better understanding please look [previous Plugin](https://github.com/www-smithchain-com/Print-Region-Into-PDF)
+This plugin is updated version 2.0 of old plugin v1.0 which convert your apex region data or report data into pdf format.Now the changes is it will also support to open print preview and apex chart instead of download. For better understanding please look [previous plugin](https://github.com/www-smithchain-com/Print-Region-Into-PDF)
 
 ### Demo
 [Find a demo here](https://apex.oracle.com/pls/apex/f?p=65355:6)
